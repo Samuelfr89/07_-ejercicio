@@ -1,0 +1,33 @@
+body{
+        
+        background-color: green;
+        margin: 2px;
+    }
+.blancolineanegra{
+        height: 25px;
+        background-color: white;
+        border: solid 4px black;
+        border-radius: 15%;
+}
+.LBlanacyfNaranja{
+        height: 25px;
+        background-color: orange;
+        border: solid 8px orangered;
+        border-radius: 15%;
+        }
+.lblancayfnaranja2{
+        height: 50px;
+        background-color: saddlebrown;
+        border:solid 8px tomato;
+        }
+
+.lblayfondoazul{
+        height: 25px;
+        background-color: blue;
+        border:dashed 2px teal;
+        text-decoration: overline white;
+        text-align: center;
+}
+
+    
+  
